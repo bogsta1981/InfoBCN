@@ -1,0 +1,7 @@
+# Ignore everything
+*
+!*/
+
+# Whitelist support page
+!support.html
+!.gitignore
